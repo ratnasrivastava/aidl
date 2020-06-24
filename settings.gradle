@@ -1,0 +1,4 @@
+include ':mysimpclient'
+include ':mylib'
+include ':app'
+rootProject.name = "AIDL"
